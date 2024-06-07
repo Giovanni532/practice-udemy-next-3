@@ -14,6 +14,11 @@ pnpm dev
 bun dev
 ```
 
+A mettre dans le fichier .env
+AUTH_SECRET=
+GITHUB_CLIENT_ID=
+GITHUB_CLIENT_SECRET=
+
 Librairies utilisées.
 NextUI
 Prisma
